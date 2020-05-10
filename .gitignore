@@ -6,3 +6,4 @@ doc/
 phobert_large/
 VnCoreNLP-master/
 models/
+*.csv
